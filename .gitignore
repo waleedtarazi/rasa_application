@@ -1,5 +1,7 @@
-
+models
 .rasa
+.env
+ngrok.exe
 test.py
 test.yml
 test.txt
